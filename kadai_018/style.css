@@ -68,7 +68,7 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position: relative;
   top: 100px;
   left: 200px;
 }
@@ -77,6 +77,6 @@
   width: 400px;
   height: 100px;
   background-color: #e5dcf0;
-  position: absolute;
+  position: relative;
   left: 400px;
 }
