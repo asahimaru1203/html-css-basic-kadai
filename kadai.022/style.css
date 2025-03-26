@@ -61,7 +61,7 @@ footer {
   background-color: rgb(244, 79, 79);
   text-align: center;
 }
-a :visited {
+a:visited {
   color: rgb(193, 234, 251);
 }
 a:hover {
